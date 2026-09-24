@@ -9,6 +9,9 @@ public class SpriteColorChanger : MonoBehaviour
     private void Start()
     {
         Debug.Log("yeah that scene is started there now lad");
+        Color someColor;
+        someColor = new Color(1, 0, 0);
+        aSR.color = someColor;
     }
 
     private void Update()
