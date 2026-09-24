@@ -286,7 +286,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a078f26c352476b4f8ef6c3f6fd07a9a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::SpriteColorChanger
-  aSR: {fileID: 0}
+  aSR: {fileID: 602297006}
 --- !u!212 &602297006
 SpriteRenderer:
   serializedVersion: 2

@@ -16,7 +16,10 @@ public class SpriteColorChanger : MonoBehaviour
 
     private void Update()
     {
-
+        // attempted making random colours
+        Color randomColor;
+        randomColor = new Color(1, 0, 0);
+        aSR.color = randomColor;
     }
 }
 
