@@ -1,4 +1,21 @@
+using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+
+public class SpriteColorChanger : MonoBehaviour
+{
+    public SpriteRenderer aSR;
+
+    private void Start()
+    {
+
+    }
+
+    private void Update()
+    {
+
+    }
+}
 
 public class the1stscript : MonoBehaviour
 {
