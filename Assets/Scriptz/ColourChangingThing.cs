@@ -8,7 +8,7 @@ public class SpriteColorChanger : MonoBehaviour
 
     private void Start()
     {
-
+        Debug.Log("yeah that scene is started there now lad");
     }
 
     private void Update()
